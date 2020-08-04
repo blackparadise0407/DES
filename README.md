@@ -13,6 +13,7 @@ Other validations are implemented in the program itself.
 
 
 
-References: *	https://www.educative.io/edpresso/how-to-implement-the-des-algorithm-in-cpp
-	    *	https://stackoverflow.com
-	    *	https://www.geeksforgeeks.org
+References: 
+* https://www.educative.io/edpresso/how-to-implement-the-des-algorithm-in-cpp
+* https://stackoverflow.com
+* https://www.geeksforgeeks.org
